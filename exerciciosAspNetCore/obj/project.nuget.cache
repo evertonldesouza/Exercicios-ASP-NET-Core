@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "geYP1VfM+gsYU3K8k2QY2pLD6D26Vrm3nCT231dJ2Q9CIO6OLaht09OX1g9pONwnlPYsDGm5CWwFniJkWaRCrA==",
+  "dgSpecHash": "EdnWZTo6OTkgNZfQ449NfJ0kv0VJLsA7D0+7A8ccbugM3m3p6zjJt8SY14kFJGO8pxfCyfdv17D/XN39SnM8Ww==",
   "success": true,
-  "projectFilePath": "D:\\github\\Exercicios-ASP-NET-Core\\exerciciosAspNetCoreRazor-main\\ProjetosWeb.csproj",
+  "projectFilePath": "C:\\Users\\everton.souza\\source\\exerciciosAspNetCoreRazor-main\\ProjetosWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\everton.souza\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.8\\microsoft.aspnetcore.mvc.razor.extensions.5.0.8.nupkg.sha512",
     "C:\\Users\\everton.souza\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.8\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.8.nupkg.sha512",

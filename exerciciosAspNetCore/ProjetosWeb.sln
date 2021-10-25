@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetosWeb", "exerciciosAspNetCoreRazor-main\ProjetosWeb.csproj", "{8615F03A-74B0-4297-9762-27E23839F368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetosWeb", "ProjetosWeb.csproj", "{77FCB102-E0C9-43E2-98A0-8D7DD983B70E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8615F03A-74B0-4297-9762-27E23839F368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8615F03A-74B0-4297-9762-27E23839F368}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8615F03A-74B0-4297-9762-27E23839F368}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8615F03A-74B0-4297-9762-27E23839F368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77FCB102-E0C9-43E2-98A0-8D7DD983B70E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FCB102-E0C9-43E2-98A0-8D7DD983B70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FCB102-E0C9-43E2-98A0-8D7DD983B70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FCB102-E0C9-43E2-98A0-8D7DD983B70E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {93F1B84E-40B4-410D-B62A-0E4CB791B41B}
+		SolutionGuid = {5E3EF76E-D23D-4FD4-9D9F-0C41C551247B}
 	EndGlobalSection
 EndGlobal
