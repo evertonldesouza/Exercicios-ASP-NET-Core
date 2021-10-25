@@ -3,7 +3,7 @@
 ## Preview
 
 
-![preview 01](.\exerciciosAspNetCore\wwwroot\img\preview.gif)
+![preview 01](./exerciciosAspNetCore/wwwroot/img/preview.gif)
 
 
 
